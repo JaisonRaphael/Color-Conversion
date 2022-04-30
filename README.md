@@ -113,7 +113,7 @@ cv2.destoryAllWindows()
 ## Output:
 ### i) BGR and RGB to HSV and GRAY
 
-![output](1.png)
+![output](C:\Users\Jaison\OneDrive\Pictures\Screenshots\2022-04-30.png)
 ![output](2.png)
 ![output](3.png)
 
